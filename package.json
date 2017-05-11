@@ -1,0 +1,15 @@
+{
+  "name": "gaishimo-orange-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/gaishimo/atom-syntax-theme-gaishimo-orange.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
